@@ -1,0 +1,15 @@
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/bin/Debug/net7.0/Exsampls001_HelloConsole
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/bin/Debug/net7.0/Exsampls001_HelloConsole.deps.json
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/bin/Debug/net7.0/Exsampls001_HelloConsole.runtimeconfig.json
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/bin/Debug/net7.0/Exsampls001_HelloConsole.dll
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/bin/Debug/net7.0/Exsampls001_HelloConsole.pdb
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/Exsampls001_HelloConsole.csproj.AssemblyReference.cache
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/Exsampls001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/Exsampls001_HelloConsole.AssemblyInfoInputs.cache
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/Exsampls001_HelloConsole.AssemblyInfo.cs
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/Exsampls001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/Exsampls001_HelloConsole.dll
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/refint/Exsampls001_HelloConsole.dll
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/Exsampls001_HelloConsole.pdb
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/Exsampls001_HelloConsole.genruntimeconfig.cache
+/Users/macintosh/Desktop/Exsampls/Exsampls001_HelloConsole/obj/Debug/net7.0/ref/Exsampls001_HelloConsole.dll
